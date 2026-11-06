@@ -1,0 +1,1 @@
+alias devpod-proof-dotfiles='printf shared-dotfiles-ok'
